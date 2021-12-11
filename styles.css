@@ -1,0 +1,33 @@
+.title {
+    background-color: orange;
+    color:black;
+    font-size:xx-large;
+    font-family: Georgia, Verdana, sans-serif;
+    text-align: center;    
+}
+
+.oranged {
+    background-color: rgb(255, 208, 122);
+    color:black;
+}
+
+.center {
+    text-align:center;
+}
+
+.lists {
+    text-align:left;
+    font-family: sans-serif;
+}
+
+p {
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+img{
+    width: 100%;
+    height: auto;
+    /* Magic! */
+    max-width: 60vw;
+}
